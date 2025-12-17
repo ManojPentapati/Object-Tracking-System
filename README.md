@@ -26,7 +26,7 @@ Football was specifically chosen as the demonstration case because it involves t
 ## 📁 Project Structure
 
 ```
-IDP/
+object_Tracking_System/
 │
 ├── object_tracker_gui.py    # Main interactive application with enhanced GUI
 ├── object_tracker_basic.py  # Basic tracker (non-interactive)
