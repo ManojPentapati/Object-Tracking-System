@@ -1,0 +1,25 @@
+name: object_tracker_env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python>=3.10
+  - numpy
+  - opencv
+  - matplotlib
+  - scikit-image
+  - pandas
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+    - filterpy
+    - lap
+    - PyYAML
+    - tqdm
+    - requests
+    - seaborn
+    - scipy
+    - ultralytics
+    - gitpython
