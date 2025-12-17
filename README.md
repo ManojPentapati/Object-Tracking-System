@@ -274,8 +274,6 @@ We are continuously working to enhance the system with new features and capabili
 
 These enhancements will transform the system into a comprehensive object tracking and analysis platform suitable for enterprise-level deployments.
 
-## 📞 Support
-
 If you encounter any issues not covered in this documentation, please ensure you've followed all installation steps correctly and have the proper system requirements.
 
 **Developed by:** Manoj Pentapati
