@@ -218,8 +218,6 @@ See `POPUP_WINDOW_ENHANCEMENT.md` for specific improvements to the player select
 
 ---
 
-## 📞 Support
-
 ## 🌍 Real-World Applications
 
 This multipurpose object tracking system has numerous practical applications across various industries:
