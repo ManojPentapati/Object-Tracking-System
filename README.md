@@ -19,7 +19,7 @@ Football was specifically chosen as the demonstration case because it involves t
 - Enhanced video quality with better resolution and reduced artifacts
 - Scalable for tracking dozens to hundreds of objects
 - Multipurpose design suitable for various tracking scenarios
-- Works on **CPU (no CUDA required)**
+- Works on **CPU (No GPU required)**
 
 ---
 
